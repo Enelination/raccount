@@ -1,4 +1,4 @@
-# 🚀 Javascript full-stack 🚀
+# 🚀 full-stack social App🚀
 
 ## MERN Stack
 
